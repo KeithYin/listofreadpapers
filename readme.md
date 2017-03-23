@@ -17,6 +17,6 @@
 
 **总结:**`weighted least squares model`.`word word co-occurrence counts` `vector->probablity`
 ## IR
-1. learning deep structured semantic models for web search.[pdf]()
+1. learning deep structured semantic models for web search.[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
 ## Generative Model
