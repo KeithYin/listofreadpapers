@@ -23,9 +23,11 @@
 1. an introduction to restricted boltzmann machines. [pdf](http://image.diku.dk/igel/paper/AItRBM-proof.pdf)
 
 **总结：** `能量模型`  `gibbs sampling`
+
 2. Generative adversarial networks. [pdf](https://arxiv.org/pdf/1406.2661.pdf)
 
 **总结：**`拟合分布` `two player`
+
 3. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(DCGAN). [pdf](https://arxiv.org/pdf/1511.06434.pdf)
 
 **总结：** `给出了一个相对稳定的结构`
