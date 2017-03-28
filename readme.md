@@ -60,6 +60,7 @@
 1. An overview of gradient descent optimization algorithms. [pdf](https://arxiv.org/pdf/1609.04747.pdf)
 
 **keyword:** 所有梯度下降算法的总结
+
 2. Black Box Variational Inference. [pdf](https://arxiv.org/pdf/1401.0118.pdf)
 
 **keyword:** 解除了变分推断只能用指数族函数的限制
