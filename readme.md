@@ -48,9 +48,11 @@
 3. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks(DCGAN). [pdf](https://arxiv.org/pdf/1511.06434.pdf)
 
 **keyword：** `给出了一个相对稳定的GAN结构`
+
 4. Auto-Encoding Variational Bayes. [pdf](https://arxiv.org/pdf/1312.6114.pdf)
 
 **keyword：** 生成网络，判别网络，变分推断
+
 5. InfoGAN. [pdf](https://arxiv.org/pdf/1606.03657.pdf)
 
 **keyword:** 目标函数加了互信息
