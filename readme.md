@@ -3,15 +3,19 @@
 1. ImageNet Classiﬁcation with Deep Convolutional Neural Networks. [pdf](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
 
 **keyword：** `ReLU` `LocalResponseNormal`
+
 2. Very Deep Convolutional Networks for Large-Scale Image Recognition(VGG).[pdf](https://arxiv.org/pdf/1409.1556.pdf)
 
 **keyword: 深度=好处，小核好，数据增强方法**
+
 3. Texture Synthesis Using Convolutional Neural Networks. [pdf](https://arxiv.org/pdf/1505.07376.pdf)
 
 **keyword:** 下面论文的基础
+
 4. A Neural Algorithm of Artistic Style。[pdf](https://arxiv.org/pdf/1508.06576v1.pdf)
 
 **keyword:** style matrix
+
 5. Visualizing and Understanding Convolutional Networks（ZF net）. [pdf](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 **keyword:** 使用 conv_transpose 可视化特征相关的receptive field
