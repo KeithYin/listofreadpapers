@@ -76,11 +76,25 @@
 6.  generative adversarial text to image synthesis.[pdf](https://arxiv.org/pdf/1605.05396v1.pdf)
 
 **keyword:** 文本生成图片，条件GAN
-## Other
+
+## Blogs
+1. [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+2. Attention. [http://distill.pub/2016/augmented-rnns/](http://distill.pub/2016/augmented-rnns/)
+
+3. [http://colah.github.io/posts/2014-07-Conv-Nets-Modular/](http://colah.github.io/posts/2014-07-Conv-Nets-Modular/)
+
+4. [http://colah.github.io/posts/2014-07-Understanding-Convolutions/](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
+5. [http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+
+
+## Others
 1. An overview of gradient descent optimization algorithms. [pdf](https://arxiv.org/pdf/1609.04747.pdf)
 
 **keyword:** 所有梯度下降算法的总结
 
 2. Black Box Variational Inference. [pdf](https://arxiv.org/pdf/1401.0118.pdf)
 
-**keyword:** 解除了变分推断只能用指数族函数的限制
+**keyword:** 解除了变分推断只能用指数族函数的限制,可以开心的求梯度了
