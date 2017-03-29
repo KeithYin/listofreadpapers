@@ -90,6 +90,7 @@
 
 6. [http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
+7. [http://scott.fortmann-roe.com/docs/BiasVariance.html](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 ## Others
 1. An overview of gradient descent optimization algorithms. [pdf](https://arxiv.org/pdf/1609.04747.pdf)
