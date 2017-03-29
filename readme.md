@@ -20,6 +20,18 @@
 
 **keyword:** 使用 conv_transpose 可视化特征相关的receptive field
 
+6. 3d convolutional neural networks for human action recognition. [pdf](http://www.cs.odu.edu/~sji/papers/pdf/Ji_ICML10.pdf)
+
+**keyword:** 3d cnn
+
+7. describing videos by exploiting temporal structure. [pdf](https://arxiv.org/pdf/1502.08029.pdf)
+
+**keyword:** 3-D cnn
+
+8. learning deep representations of fine grained visual description. [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf)
+
+**keyword:** 文本特征与图像特征映射到同一空间
+
 ## NLP
 
 1. On Using Very Large Target Vocabulary for Neural Machine Translation.[pdf](https://arxiv.org/pdf/1412.2007.pdf)
@@ -33,6 +45,10 @@
 3. Glove: Global Vectors for word Representation.[pdf](https://nlp.stanford.edu/pubs/glove.pdf)
 
 **keyword:**`weighted least squares model`.`word word co-occurrence counts` `vector->probablity`
+
+4. character level convolutional networks for text classification. [pdf](https://arxiv.org/pdf/1509.01626.pdf)
+
+**keyword:** char-cnn
 ## IR
 1. learning deep structured semantic models for web search.[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)
 
@@ -56,6 +72,10 @@
 5. InfoGAN. [pdf](https://arxiv.org/pdf/1606.03657.pdf)
 
 **keyword:** 目标函数加了互信息
+
+6.  generative adversarial text to image synthesis.[pdf](https://arxiv.org/pdf/1605.05396v1.pdf)
+
+**keyword:** 文本生成图片，条件GAN
 ## Other
 1. An overview of gradient descent optimization algorithms. [pdf](https://arxiv.org/pdf/1609.04747.pdf)
 
