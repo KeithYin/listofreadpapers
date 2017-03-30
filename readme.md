@@ -32,6 +32,12 @@
 
 **keyword:** 文本特征与图像特征映射到同一空间
 
+9. Rich feature hierarchies for accurate object detection and semantic segmentation.  [pdf](https://people.eecs.berkeley.edu/~rbg/papers/r-cnn-cvpr.pdf)
+
+**keyword:** region proposal cnn svm
+
+10 .
+
 ## NLP
 
 1. On Using Very Large Target Vocabulary for Neural Machine Translation.[pdf](https://arxiv.org/pdf/1412.2007.pdf)
