@@ -39,7 +39,10 @@
 10. Maxout networks. [pdf](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf)
 
 **keyword:** maxout
- 
+
+11. Network in Network. [pdf](https://arxiv.org/pdf/1312.4400.pdf)
+
+**keyword:** NIN, global average pooling.
 
 ## NLP
 
