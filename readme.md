@@ -36,7 +36,10 @@
 
 **keyword:** region proposal cnn svm
 
-10 .
+10. Maxout networks. [pdf](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf)
+
+**keyword:** maxout
+ 
 
 ## NLP
 
