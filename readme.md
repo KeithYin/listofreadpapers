@@ -44,6 +44,15 @@
 
 **keyword:** NIN, global average pooling.
 
+12. Overfeat. [pdf](https://arxiv.org/abs/1312.6229)
+
+**keyword:** classification, localization, detection
+
+13. Return of the devil in the details: delving deep into convolutional nets . [pdf](http://arxiv.org/pdf/1405.3531)
+
+**keywork:** summary
+
+
 ## NLP
 
 1. On Using Very Large Target Vocabulary for Neural Machine Translation.[pdf](https://arxiv.org/pdf/1412.2007.pdf)
