@@ -24,6 +24,20 @@
 **提出了一个平滑的损失函数用来增强网络的泛化能力**
 
 **结果怎么样:**
+## Inception-v4, inception-resnet and the impact of residual connections on learning
+**将Inception模块与resudial connections联合起来使用**
+好处：
+* 加速了Inception网络的训练过程,并不同意`He`说的，引入残差层会对深度的网络有非常重要的作用。
+* 提高网络的准确性 
+
+问题：
+* 但模型性能的提升并没有导致集合模型性能的大幅度提升
+* 如果filter的数量过多的话，网络结构不够稳定，可以通过放缩残差的值来解决这个问题
+
+**对比的模型：**
+* Inception-v3 VS Inception-ResNet-v1
+* Inception-v4 VS Inception-ResNet-v2
+
 
 ## 遗留问题?
 1. 为什么前几层不用`Inception`模块?

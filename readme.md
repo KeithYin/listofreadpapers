@@ -52,6 +52,17 @@
 
 **keywork:** summary
 
+14. Going deeper with convolutions (2015) .[pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+
+**keyword:** Inception
+
+15. Rethinking the inception architecture for computer vision (2016). [pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
+
+**keyword:**
+
+16. Inception-v4, inception-resnet and the impact of residual connections on learning (2016), C. Szegedy et al. [pdf](http://arxiv.org/pdf/1602.07261)
+
+**keyword:** Inception与residual connectoins
 
 ## NLP
 
