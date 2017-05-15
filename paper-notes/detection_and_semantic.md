@@ -7,7 +7,7 @@
 * skip atchitecture: 有跳跃连线的网络，就像resnet
 * shift and stitch: 移位一次，计算一次输出，然后把不同移位的输出粘起来。但是如何shift呢？我怎么感觉交换更好
   * 每f个像素进行循环，直到循环一遍。
-* in-network upsampling:
+* in-network upsampling: 用 `deconv`
 
 **Key insight:**
 
@@ -18,6 +18,15 @@
 * Global information resolves what *while* local information resolves where.
 * Deep, coarse, semantic information and shallow, fine, appearance information.
 * using deconvolution layers for upsampling.(efficient and effective alternative)
+
+**How to connect coarse output to dense pixels:**
+
+* interpolation
+* deconvolution
+* shift and stitch??? 没搞明白
+
+
+
 
 **convnets:**
 
