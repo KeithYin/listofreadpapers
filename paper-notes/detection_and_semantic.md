@@ -41,4 +41,13 @@
 # Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs
 
 
-# YOLO
+# YOLO(You only look once)
+
+* For object detection
+
+## procedure
+
+* divides the input image into an S*S *grid*, if the center of an object falls into a grid cell, that grid cell is responsible for detecting that object.
+* each *grid cell* predicts B *bounding boxes* and confidence score for those boxes.
+  * 预测的B个bounding box的置信度保存在哪？
+* Each *bounding* box consits of 5 predictions: x,y,w,h
