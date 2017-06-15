@@ -23,6 +23,12 @@
 如何解释这个原因? 作者的假设是(the **correlation between adjacent unit** results in much less loss of information during dimension reduction, if the results are used in a spatial aggregation context.)
 5. 平衡网络的宽度与广度.(Optimal performance of the network can be reached by balancing the number of filters per stage and the depth of the network!)
 
+**碰到的问题:**
+
+* 前几层使用 卷积核分解的方法 会使性能降低,但是在feture map的size是(12*12 到 20*20)的时候使用这种分解的方法会很好.
+* 导致上述结果的原因是什么????
+
+
 **提出了一个平滑的损失函数用来增强网络的泛化能力**
 
 **结果怎么样:**
@@ -43,6 +49,6 @@
 
 ## 遗留问题?
 1. 为什么前几层不用`Inception`模块?
-内存愿意
+内存原因
 2. patch-alignment issues?
 3.
